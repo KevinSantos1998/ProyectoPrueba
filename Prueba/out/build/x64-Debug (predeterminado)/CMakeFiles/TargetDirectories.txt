@@ -1,0 +1,5 @@
+C:/Users/Kevin Santos/Desktop/Estru/Proyecto/Prueba/out/build/x64-Debug (predeterminado)/CMakeFiles/edit_cache.dir
+C:/Users/Kevin Santos/Desktop/Estru/Proyecto/Prueba/out/build/x64-Debug (predeterminado)/CMakeFiles/rebuild_cache.dir
+C:/Users/Kevin Santos/Desktop/Estru/Proyecto/Prueba/out/build/x64-Debug (predeterminado)/Prueba/CMakeFiles/edit_cache.dir
+C:/Users/Kevin Santos/Desktop/Estru/Proyecto/Prueba/out/build/x64-Debug (predeterminado)/Prueba/CMakeFiles/Prueba.dir
+C:/Users/Kevin Santos/Desktop/Estru/Proyecto/Prueba/out/build/x64-Debug (predeterminado)/Prueba/CMakeFiles/rebuild_cache.dir
